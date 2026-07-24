@@ -1,0 +1,22 @@
+generated: '2026-07-18'
+method: searched
+source: live probes of /.well-known/* on Bright Moments hosts
+note: >-
+  No /.well-known discovery documents are published. Bright Moments is an NFT/DAO
+  organization with no REST/OAuth API surface; all probes returned 404. Recorded as
+  honest negative data (no WellKnown pointer wired since no catalog exists).
+hosts:
+- host: https://www.brightmoments.io
+- host: https://app.brightmoments.io
+- host: https://docs.brightmoments.io
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404

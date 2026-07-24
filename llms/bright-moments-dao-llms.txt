@@ -1,0 +1,68 @@
+# Bright Moments
+
+## Bright Moments
+
+- [Bright Moments](https://docs.brightmoments.io/bright-moments.md)
+- [History](https://docs.brightmoments.io/bright-moments/history.md)
+- [Roadmap](https://docs.brightmoments.io/bright-moments/roadmap.md)
+- [Governance](https://docs.brightmoments.io/bright-moments/governance.md): Bright Moments operates as an onchain organization. Being a CryptoCitizen holder gives you various benefits:
+- [FAQ](https://docs.brightmoments.io/bright-moments/frequently-asked-questions.md)
+- [CryptoCitizens](https://docs.brightmoments.io/cryptocitizens.md)
+- [City Collections](https://docs.brightmoments.io/cryptocitizens/city-collections.md): An overview of each CryptoCitizens city collections
+- [Information Archive](https://docs.brightmoments.io/cryptocitizens/information-archive.md): This page contains all previous information about community nominations in Bright Moments cities
+- [Berlin](https://docs.brightmoments.io/cryptocitizens/information-archive/berlin.md)
+- [Nominations](https://docs.brightmoments.io/cryptocitizens/information-archive/berlin/nominations.md): Nominations Details about the GTNY nomination process and CryptoCitizen voting privileges
+- [Accommodations](https://docs.brightmoments.io/cryptocitizens/information-archive/berlin/accommodations.md)
+- [London](https://docs.brightmoments.io/cryptocitizens/information-archive/london.md)
+- [Remote vs. Delegate Minting](https://docs.brightmoments.io/cryptocitizens/information-archive/london/remote-vs.-delegate-minting.md)
+- [Scheduling and Remote Minting Instructions](https://docs.brightmoments.io/cryptocitizens/information-archive/london/scheduling-and-remote-minting-instructions.md)
+- [Golden Token London Etherscan Instructions](https://docs.brightmoments.io/cryptocitizens/information-archive/london/golden-token-london-etherscan-instructions.md)
+- [Nominations](https://docs.brightmoments.io/cryptocitizens/information-archive/london/nominations.md)
+- [Community Nominations Round 3](https://docs.brightmoments.io/cryptocitizens/information-archive/london/nominations/community-nominations-round-3.md)
+- [Community Nominations Round 2](https://docs.brightmoments.io/cryptocitizens/information-archive/london/nominations/community-nominations-round-2.md)
+- [Community Nominations Round 1](https://docs.brightmoments.io/cryptocitizens/information-archive/london/nominations/community-nominations-round-1.md)
+- [GTLN Purchase Instructions](https://docs.brightmoments.io/cryptocitizens/information-archive/london/gtln-purchase-instructions.md)
+- [Redeeming Mint Passes Using Gnosis](https://docs.brightmoments.io/cryptocitizens/information-archive/london/redeeming-mint-passes-using-gnosis.md)
+- [Printing Policy](https://docs.brightmoments.io/cryptocitizens/information-archive/london/printing-policy.md)
+- [Mexico City](https://docs.brightmoments.io/cryptocitizens/information-archive/mexico-city.md)
+- [GTMX Sale: Brightlist Etherscan Instructions](https://docs.brightmoments.io/cryptocitizens/information-archive/mexico-city/gtmx-sale-brightlist-etherscan-instructions.md)
+- [Mexico City Sale Eligibility](https://docs.brightmoments.io/cryptocitizens/information-archive/mexico-city/mexico-city-sale-eligibility.md)
+- [CDMX Dutch Auction Snapshots](https://docs.brightmoments.io/cryptocitizens/information-archive/mexico-city/mexico-city-sale-eligibility/cdmx-dutch-auction-snapshots.md)
+- [GTMX Sale Snapshots](https://docs.brightmoments.io/cryptocitizens/information-archive/mexico-city/mexico-city-sale-eligibility/gtmx-sale-snapshots.md)
+- [Nominations](https://docs.brightmoments.io/cryptocitizens/information-archive/mexico-city/nominations.md)
+- [Mexico City Collection Sale](https://docs.brightmoments.io/cryptocitizens/information-archive/mexico-city/mexico-city-collection-sale.md)
+- [La Revelación Competition](https://docs.brightmoments.io/cryptocitizens/information-archive/mexico-city/la-revelacion-competition.md)
+- [The Heist](https://docs.brightmoments.io/cryptocitizens/the-heist.md)
+- [Artist Collaborations](https://docs.brightmoments.io/artist-collaborations.md)
+- [Artist Docs & Onboarding](https://docs.brightmoments.io/artist-collaborations/artist-docs-and-onboarding.md)
+- [Engine (Goerli)](https://docs.brightmoments.io/artist-collaborations/artist-docs-and-onboarding/engine-goerli.md)
+- [Engine (Sepolia)](https://docs.brightmoments.io/artist-collaborations/artist-docs-and-onboarding/engine-sepolia.md)
+- [Flex Engine](https://docs.brightmoments.io/artist-collaborations/artist-docs-and-onboarding/flex-engine.md)
+- [Random Image Generator](https://docs.brightmoments.io/artist-collaborations/artist-docs-and-onboarding/flex-engine/random-image-generator.md)
+- [Artist in Residence](https://docs.brightmoments.io/artist-collaborations/artist-in-residence.md)
+- [100 x 100](https://docs.brightmoments.io/artist-collaborations/100-x-100.md): 100 algorithms, with 100 outputs. Live minted at Bright Moments 2021 - 2024
+- [Venice Beach](https://docs.brightmoments.io/artist-collaborations/venice-beach.md)
+- [Aaron Penne x Boreta](https://docs.brightmoments.io/artist-collaborations/venice-beach/aaron-penne-x-boreta.md)
+- [New York](https://docs.brightmoments.io/artist-collaborations/new-york.md)
+- [Incomplete Control | Tyler Hobbs](https://docs.brightmoments.io/artist-collaborations/new-york/incomplete-control-or-tyler-hobbs.md): Details and terms of service for the Tyler Hobbs' Incomplete Control IRL drop hosted by Bright Moments.
+- [Reflections | Jeff Davis](https://docs.brightmoments.io/artist-collaborations/new-york/reflections-or-jeff-davis.md)
+- [Velum | Harvey Rayner](https://docs.brightmoments.io/artist-collaborations/new-york/velum-or-harvey-rayner.md)
+- [Wallet Brightlist](https://docs.brightmoments.io/artist-collaborations/new-york/velum-or-harvey-rayner/wallet-brightlist.md)
+- [Mexico City](https://docs.brightmoments.io/artist-collaborations/mexico-city.md)
+- [Tokyo](https://docs.brightmoments.io/artist-collaborations/tokyo.md)
+- [Buenos Aires](https://docs.brightmoments.io/artist-collaborations/buenos-aires.md)
+- [Paris](https://docs.brightmoments.io/artist-collaborations/paris.md)
+- [Display Software](https://docs.brightmoments.io/display-software.md): Bright Moments offers display software to our holders for at-home viewing
+- [Getting Started](https://docs.brightmoments.io/display-software/getting-started.md)
+- [Device Management](https://docs.brightmoments.io/display-software/device-management.md)
+- [Screen Management](https://docs.brightmoments.io/display-software/screen-management.md)
+- [Playlist Management](https://docs.brightmoments.io/display-software/playlist-management.md)
+- [Policies](https://docs.brightmoments.io/policies.md)
+- [Amps.fun Policies](https://docs.brightmoments.io/policies/amps.fun-policies.md)
+- [view.art Policies](https://docs.brightmoments.io/policies/view.art-policies.md)
+- [Hashmark Delegation](https://docs.brightmoments.io/policies/hashmark-delegation.md)
+- [Metropolis Match](https://docs.brightmoments.io/policies/metropolis-match.md)
+- [Token Gating](https://docs.brightmoments.io/policies/token-gating.md)
+- [Golden Token Terms of Service](https://docs.brightmoments.io/policies/golden-token-terms-of-service.md)
+- [Mint Pass Policy](https://docs.brightmoments.io/policies/mint-pass-policy.md): The following policy was voted on by CryptoCitizens and represents the Mint Pass policy for artists featured in the London Collection.
+- [Venice to Venice Trailer Giveaway](https://docs.brightmoments.io/policies/venice-to-venice-trailer-giveaway.md)
